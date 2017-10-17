@@ -1,0 +1,122 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+body,
+p,
+div,
+span {
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+}
+
+.bgimg {
+  background-image: url(../img/bg-confetti-2.svg);
+  background-size: 400px;
+  background-position: center;
+  background-size: cover;
+  min-height: 100%;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: 1.3px solid #30a9de;
+}
+
+.padding-large {
+  padding: 12px 24px;
+}
+
+.padding-64 {
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+.display-container {
+  position: relative;
+}
+
+.padding-32 {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.jumbo {
+  font-size: 64px;
+}
+
+.round-large {
+  border-radius: 8px;
+}
+
+.padding-16 {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.xlarge {
+  font-size: 24px;
+}
+
+.xxxlarge {
+  font-size: 48px;
+}
+
+.light-grey {
+  color: #000;
+  background-color: #f1f1f1;
+}
+.text-black {
+  color: #000;
+}
+.border {
+  border: 1px solid #ccc;
+}
+
+.threequarter {
+  width: 74.99999%;
+  padding: 0 8px;
+  float: left;
+  /*width: 100%*/
+}
+
+.large {
+  font-size: 18px;
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+.right {
+  float: right;
+}
+
+.quarter {
+  width: 24.99999%;
+  float: left;
+  width: 100%;
+}
+
+.content {
+  max-width: 980px;
+  margin: auto;
+}
+.padding {
+  padding: 8px 16px;
+}
+
+.headerStyle {
+  font-family: "Raleway";
+}
+
+.hrStyle {
+  width: 150px;
+  border: 5px solid black;
+  padding: 0px;
+}
