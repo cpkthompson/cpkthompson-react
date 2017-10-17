@@ -6,7 +6,7 @@ import Aside from "./Components/Aside";
 class App extends Component {
     render() {
         return (
-            <div className="content padding-32">
+            <div className="w3-content w3-container padding-32">
                 <Header />
                 <Body />
                 <Aside />
